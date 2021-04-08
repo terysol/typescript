@@ -20,7 +20,7 @@ function calculateCoddingIQ(lostPoint:any){
 // Syntac 타입 명시
 let studentID:number=12345;
 let studentName : string='Jenny Kim';
-let age:number=21;
+//let age:number=21;
  
 function getStudentDetails(studentID:number):{
     studentID:number;           // 반환되는 객체를 구조를 명시 

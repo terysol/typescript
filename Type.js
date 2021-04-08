@@ -16,7 +16,7 @@ function calculateCoddingIQ(lostPoint) {
 // Syntac 타입 명시
 var studentID = 12345;
 var studentName = 'Jenny Kim';
-var age = 21;
+//let age:number=21;
 function getStudentDetails(studentID) {
     // : ~   ==> 리턴값 타입명시 , void는 아무것도 반환하지 않는다
     return null;
